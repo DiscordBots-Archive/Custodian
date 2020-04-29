@@ -1,11 +1,11 @@
 const config = {
-  // Bot Admins, level 9 by default. Array of ID strings.
+  
   "admins": [],
 
-  // Bot Support, level 8 by default. Array of ID strings.
+  
   "support": [],
 
-  // Your bot"s token. Available on Available on https://discordapp.com/developers/applications/me.
+  
   "token": '{{token}}',
 
   "youtubeAPIKey": '{{youtube-api-key}}',
